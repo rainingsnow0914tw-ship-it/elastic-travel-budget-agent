@@ -1,69 +1,82 @@
 date,location,category,amount,currency,amount_hkd,merchant,notes,trip_id
-2023-01-26,台中,住宿,3200,TWD,800,台中日月千禧酒店,入住首晚,2023-01-taichung
-2023-01-26,台中,餐飲,240,TWD,60,春水堂,下午茶,2023-01-taichung
-2023-01-27,台中,餐飲,720,TWD,180,屋馬燒肉,晚餐週末加成,2023-01-taichung
-2023-01-27,台中,交通,2400,TWD,600,格上租車,租車3天,2023-01-taichung
-2023-01-28,台中,景點,600,TWD,150,國立自然科學博物館,門票,2023-01-taichung
-2023-01-28,台中,交通,1000,TWD,250,台塑加油站,油費,2023-01-taichung
-2023-01-29,台中,購物,2000,TWD,500,宮原眼科,伴手禮集中最後一天,2023-01-taichung
-2023-02-03,台中,住宿,720,TWD,180,逢甲民宿,過年特價,2023-02-taichung
-2023-02-03,台中,餐飲,300,TWD,75,逢甲夜市,晚餐,2023-02-taichung
-2023-04-03,東京,住宿,17000,JPY,1020,新宿王子酒店,櫻花季房價偏高,2023-04-tokyo
-2023-04-03,東京,餐飲,2200,JPY,132,一蘭拉麵,晚餐,2023-04-tokyo
-2023-04-04,東京,餐飲,1800,JPY,108,築地壽司大,午餐,2023-04-tokyo
-2023-04-04,東京,景點,4000,JPY,240,teamLab Planets,門票體驗,2023-04-tokyo
-2023-04-05,東京,交通,9000,JPY,540,Times Car Rental,租車3天,2023-04-tokyo
-2023-04-06,東京,住宿,15000,JPY,900,淺草酒店,第二間酒店,2023-04-tokyo
-2023-04-06,東京,購物,8000,JPY,480,銀座百貨,伴手禮,2023-04-tokyo
-2023-04-07,東京,餐飲,3500,JPY,210,米其林餐廳,慶祝晚餐,2023-04-tokyo
-2023-04-08,東京,景點,2500,JPY,150,東京晴空塔,觀景台門票,2023-04-tokyo
-2023-04-09,東京,住宿,16000,JPY,960,池袋酒店,最後一晚,2023-04-tokyo
-2023-04-09,東京,交通,6000,JPY,360,JR東日本,車票總計,2023-04-tokyo
-2023-04-10,東京,購物,12000,JPY,720,成田機場免稅店,最後採購,2023-04-tokyo
-2023-05-12,福岡,住宿,12000,JPY,720,博多站酒店,交通方便,2023-05-fukuoka
-2023-05-12,福岡,餐飲,1600,JPY,96,一風堂拉麵,晚餐,2023-05-fukuoka
-2023-05-13,福岡,景點,1500,JPY,90,太宰府天滿宮,門票交通,2023-05-fukuoka
-2023-05-13,福岡,餐飲,2800,JPY,168,河豚料理,午餐,2023-05-fukuoka
-2023-05-13,福岡,購物,4000,JPY,240,天神地下街,伴手禮,2023-05-fukuoka
-2023-05-14,福岡,住宿,11000,JPY,660,天神酒店,最後一晚,2023-05-fukuoka
-2023-05-14,福岡,餐飲,2200,JPY,132,屋台小吃,晚餐,2023-05-fukuoka
-2023-06-20,大阪,住宿,14000,JPY,840,難波酒店,地點優越,2023-06-osaka
-2023-06-20,大阪,餐飲,1800,JPY,108,大阪燒,晚餐,2023-06-osaka
-2023-06-21,大阪,景點,3800,JPY,228,環球影城,門票,2023-06-osaka
-2023-06-21,大阪,餐飲,2500,JPY,150,章魚燒套餐,午餐,2023-06-osaka
-2023-06-21,大阪,購物,8000,JPY,480,心齋橋商店街,購物,2023-06-osaka
-2023-06-22,大阪,住宿,15000,JPY,900,梅田酒店,第二晚,2023-06-osaka
-2023-06-22,大阪,交通,5000,JPY,300,大阪周遊券,交通票券,2023-06-osaka
-2023-07-15,東京,住宿,18000,JPY,1080,六本木酒店,商務區,2024-07-tokyo
-2023-07-15,東京,餐飲,4000,JPY,240,壽司店,午餐,2024-07-tokyo
-2023-07-16,東京,購物,25000,JPY,1500,表參道精品店,購物,2024-07-tokyo
-2023-08-10,大阪,住宿,13000,JPY,780,天王寺酒店,近阿倍野,2024-08-osaka
-2023-08-10,大阪,餐飲,1500,JPY,90,拉麵,晚餐,2024-08-osaka
-2023-08-11,大阪,景點,4500,JPY,270,大阪城,門票,2024-08-osaka
-2023-08-11,大阪,交通,6000,JPY,360,租車2天,交通,2024-08-osaka
-2023-08-12,大阪,住宿,14000,JPY,840,難波新酒店,第二晚,2024-08-osaka
-2023-08-12,大阪,購物,12000,JPY,720,道頓堀,購物,2024-08-osaka
-2023-09-05,福岡,住宿,10000,JPY,600,中洲酒店,靠近河邊,2024-09-fukuoka
-2023-09-05,福岡,餐飲,2000,JPY,120,博多拉麵,晚餐,2024-09-fukuoka
-2023-09-06,福岡,景點,2000,JPY,120,福岡塔,門票,2024-09-fukuoka
-2023-10-12,大阪,住宿,16000,JPY,960,新大阪酒店,靠近車站,2024-10-osaka
-2023-10-12,大阪,餐飲,3000,JPY,180,和牛燒肉,晚餐,2024-10-osaka
-2023-10-13,大阪,景點,4000,JPY,240,海遊館,水族館門票,2024-10-osaka
-2023-10-13,大阪,交通,4000,JPY,240,大阪地鐵,交通卡,2024-10-osaka
-2023-10-14,大阪,住宿,15000,JPY,900,心齋橋酒店,購物區,2024-10-osaka
-2023-10-14,大阪,購物,20000,JPY,1200,黑門市場,購物,2024-10-osaka
-2023-11-20,東京,住宿,19000,JPY,1140,澀谷酒店,年輕區域,2024-11-tokyo
-2023-11-20,東京,餐飲,3500,JPY,210,迴轉壽司,晚餐,2024-11-tokyo
-2023-11-21,東京,景點,5000,JPY,300,迪士尼海洋,門票,2024-11-tokyo
-2023-11-21,東京,購物,15000,JPY,900,原宿商店街,購物,2024-11-tokyo
-2023-12-08,台中,住宿,3600,TWD,900,台中亞緻酒店,商務飯店,2024-12-taichung
-2023-12-08,台中,餐飲,400,TWD,100,春水堂,下午茶,2024-12-taichung
-2023-12-09,台中,景點,800,TWD,200,高美濕地,門票交通,2024-12-taichung
-2023-12-09,台中,購物,2400,TWD,600,新光三越,購物,2024-12-taichung
-2024-01-15,大阪,住宿,17000,JPY,1020,環球影城酒店,主題酒店,2025-01-osaka
-2024-01-15,大阪,餐飲,2500,JPY,150,大阪燒,晚餐,2025-01-osaka
-2024-01-16,大阪,景點,8000,JPY,480,環球影城,快速通關,2025-01-osaka
-2024-01-16,大阪,購物,10000,JPY,600,環球影城商店,紀念品,2025-01-osaka
-2024-01-17,大阪,住宿,16000,JPY,960,梅田高級酒店,最後一晚,2025-01-osaka
-2024-01-17,大阪,交通,8000,JPY,480,關西機場特急,車票,2025-01-osaka
-2024-01-17,大阪,購物,15000,JPY,900,機場免稅店,最後採購,2025-01-osaka
+2023-01-26,Taichung,Accommodation,3200,TWD,800,Millennium Hotel Taichung,First night check-in,2023-01-taichung
+2023-01-26,Taichung,Dining,240,TWD,60,Chun Shui Tang,Afternoon tea,2023-01-taichung
+2023-01-27,Taichung,Dining,720,TWD,180,Umai Yakiniku,Weekend dinner surcharge,2023-01-taichung
+2023-01-27,Taichung,Transport,2400,TWD,600,CarPlus Rental,Car rental for 3 days,2023-01-taichung
+2023-01-28,Taichung,Attraction,600,TWD,150,National Museum of Natural Science,Admission ticket,2023-01-taichung
+2023-01-28,Taichung,Transport,1000,TWD,250,Formosa Petrochemical Gas Station,Fuel cost,2023-01-taichung
+2023-01-29,Taichung,Shopping,2000,TWD,500,Miyahara,Last-day souvenir bulk purchase,2023-01-taichung
+2023-04-03,Tokyo,Accommodation,17000,JPY,1020,Shinjuku Prince Hotel,Cherry blossom season higher room rate,2023-04-tokyo
+2023-04-03,Tokyo,Dining,2200,JPY,132,Ichiran Ramen,Dinner,2023-04-tokyo
+2023-04-04,Tokyo,Dining,1800,JPY,108,Tsukiji Sushi Dai,Lunch,2023-04-tokyo
+2023-04-04,Tokyo,Attraction,4000,JPY,240,teamLab Planets,Ticket experience,2023-04-tokyo
+2023-04-05,Tokyo,Transport,9000,JPY,540,Times Car Rental,Car rental for 3 days,2023-04-tokyo
+2023-04-06,Tokyo,Shopping,60000,JPY,3600,Bic Camera,Electronics bulk purchase second to last day,2023-04-tokyo
+2023-05-12,Osaka,Accommodation,12000,JPY,720,Hotel Monterey Grasmere Osaka,First night check-in,2023-05-osaka
+2023-05-12,Osaka,Dining,1900,JPY,114,Osaka Ohsho,Dinner,2023-05-osaka
+2023-05-13,Osaka,Attraction,8600,JPY,516,Universal Studios Japan,One-day pass,2023-05-osaka
+2023-05-14,Osaka,Transport,12000,JPY,720,Times Car Rental,Car rental for 4 days,2023-05-osaka
+2023-05-15,Osaka,Shopping,18000,JPY,1080,Matsumoto Kiyoshi,Drugstore bulk purchase last two days,2023-05-osaka
+2023-11-10,Osaka,Accommodation,15000,JPY,900,Osaka Marriott Miyako Hotel,Autumn foliage season higher room rate,2023-11-osaka
+2023-11-10,Osaka,Dining,2800,JPY,168,Kani Doraku,Weekend dinner surcharge,2023-11-osaka
+2023-11-11,Osaka,Dining,1600,JPY,96,Marugame Seimen,Lunch,2023-11-osaka
+2023-11-11,Osaka,Attraction,3600,JPY,216,Umeda Sky Building Observatory,Admission ticket,2023-11-osaka
+2023-11-12,Osaka,Shopping,25000,JPY,1500,Don Quijote,Drugstore & snacks bulk purchase last day,2023-11-osaka
+2023-12-07,Tokyo,Accommodation,16000,JPY,960,Hilton Tokyo Bay,First night check-in,2023-12-tokyo
+2023-12-07,Tokyo,Dining,2400,JPY,144,Torikizoku,Dinner,2023-12-tokyo
+2023-12-08,Tokyo,Transport,4800,JPY,288,JR East,Suica top-up and tickets,2023-12-tokyo
+2023-12-08,Tokyo,Dining,2100,JPY,126,Tendon Kaneko Hannosuke,Lunch,2023-12-tokyo
+2023-12-09,Tokyo,Attraction,8200,JPY,492,Tokyo Disneyland,Admission ticket,2023-12-tokyo
+2023-12-10,Tokyo,Shopping,14000,JPY,840,Isetan Shinjuku,Last-day souvenir bulk purchase,2023-12-tokyo
+2024-03-22,Tokyo,Accommodation,18000,JPY,1080,Shinjuku Prince Hotel,Cherry blossom season higher room rate,2024-03-tokyo
+2024-03-22,Tokyo,Dining,3200,JPY,192,Yakiniku Rokkasen,Weekend dinner surcharge,2024-03-tokyo
+2024-03-23,Tokyo,Dining,2600,JPY,156,Ginza Bairin,Lunch,2024-03-tokyo
+2024-03-23,Tokyo,Attraction,5200,JPY,312,Tokyo Skytree,Observation deck ticket,2024-03-tokyo
+2024-03-24,Tokyo,Transport,10000,JPY,600,Times Car Rental,Car rental for 4 days,2024-03-tokyo
+2024-03-25,Tokyo,Shopping,24000,JPY,1440,Matsumoto Kiyoshi,Drugstore bulk purchase second to last day,2024-03-tokyo
+2024-05-16,Osaka,Accommodation,11000,JPY,660,The Royal Park Hotel Iconic Osaka Midosuji,First night check-in,2024-05-osaka
+2024-05-16,Osaka,Dining,1700,JPY,102,Ichiran Ramen,Dinner,2024-05-osaka
+2024-05-17,Osaka,Transport,4200,JPY,252,Osaka Metro,Metro day pass and top-up,2024-05-osaka
+2024-05-18,Osaka,Attraction,3000,JPY,180,Osaka Castle Tenshukaku,Admission ticket,2024-05-osaka
+2024-05-19,Osaka,Shopping,12000,JPY,720,Daimaru Umeda,Last-day souvenir bulk purchase,2024-05-osaka
+2024-09-05,Tokyo,Accommodation,15000,JPY,900,The Tokyo Station Hotel,First night check-in,2024-09-tokyo
+2024-09-05,Tokyo,Dining,2000,JPY,120,Afuri Ramen,Dinner,2024-09-tokyo
+2024-09-06,Tokyo,Dining,2400,JPY,144,Toyosu Market Sushi,Lunch,2024-09-tokyo
+2024-09-06,Tokyo,Attraction,3800,JPY,228,Mori Art Museum,Admission ticket,2024-09-tokyo
+2024-09-07,Tokyo,Transport,9000,JPY,540,Times Car Rental,Car rental for 3 days,2024-09-tokyo
+2024-09-08,Tokyo,Shopping,45000,JPY,2700,Bic Camera,Electronics bulk purchase last day,2024-09-tokyo
+2024-10-03,Taichung,Accommodation,3000,TWD,750,The Lin Hotel Taichung,First night check-in,2024-10-taichung
+2024-10-03,Taichung,Dining,600,TWD,150,Ding Wang Hotpot,No spicy — changed to clear broth,2024-10-taichung
+2024-10-04,Taichung,Dining,320,TWD,80,Model Street Cafe,Breakfast,2024-10-taichung
+2024-10-04,Taichung,Transport,2200,TWD,550,iRent Car Rental,Car rental for 3 days,2024-10-taichung
+2024-10-05,Taichung,Attraction,800,TWD,200,National Taichung Theater,Guided tour experience,2024-10-taichung
+2024-10-05,Taichung,Transport,900,TWD,225,CPC,Fuel cost,2024-10-taichung
+2024-10-06,Taichung,Shopping,2400,TWD,600,Fengjia Night Market,Last-day souvenir bulk purchase,2024-10-taichung
+2024-11-18,Tokyo,Accommodation,17500,JPY,1050,Shinjuku Granbell Hotel,Autumn foliage season higher room rate,2024-11-tokyo
+2024-11-18,Tokyo,Dining,2600,JPY,156,Gyukatsu Motomura,Dinner,2024-11-tokyo
+2024-11-19,Tokyo,Dining,3000,JPY,180,Jojoen,Weekend dinner surcharge,2024-11-tokyo
+2024-11-19,Tokyo,Attraction,4200,JPY,252,Meiji Jingu Gaien Ginkgo Avenue,Event area tickets,2024-11-tokyo
+2024-11-20,Tokyo,Transport,11000,JPY,660,Times Car Rental,Car rental for 4 days,2024-11-tokyo
+2024-11-21,Tokyo,Shopping,22000,JPY,1320,Isetan Shinjuku,Last-day souvenir bulk purchase,2024-11-tokyo
+2024-11-25,Fukuoka,Accommodation,10000,JPY,600,Hotel Nikko Fukuoka,First night check-in,2024-11-fukuoka
+2024-11-25,Fukuoka,Dining,1600,JPY,96,Ichiran Main Store,Dinner,2024-11-fukuoka
+2024-11-26,Fukuoka,Dining,2000,JPY,120,Ganso Hakata Mentaiju,Lunch,2024-11-fukuoka
+2024-11-26,Fukuoka,Attraction,3000,JPY,180,Dazaifu Tenmangu,Shrine visit experience fee,2024-11-fukuoka
+2024-11-27,Fukuoka,Shopping,12000,JPY,720,Hakata Hankyu,Last-day souvenir bulk purchase,2024-11-fukuoka
+2024-12-14,Osaka,Accommodation,13000,JPY,780,Osaka Marriott Miyako Hotel,First night check-in,2024-12-osaka
+2024-12-14,Osaka,Dining,2600,JPY,156,Honke Ootako,Street food weekend surcharge,2024-12-osaka
+2024-12-15,Osaka,Transport,9000,JPY,540,Times Car Rental,Car rental for 3 days,2024-12-osaka
+2024-12-16,Osaka,Shopping,15000,JPY,900,Don Quijote,Drugstore & snacks bulk purchase last day,2024-12-osaka
+2025-01-30,Taichung,Accommodation,3400,TWD,850,Millennium Hotel Taichung,Lunar New Year higher room rate,2025-01-taichung
+2025-01-30,Taichung,Dining,800,TWD,200,Umai Yakiniku,Weekend dinner surcharge,2025-01-taichung
+2025-01-31,Taichung,Dining,280,TWD,70,Fourth Credit Union,Dessert,2025-01-taichung
+2025-01-31,Taichung,Transport,3000,TWD,750,CarPlus Rental,Car rental for 4 days,2025-01-taichung
+2025-02-01,Taichung,Attraction,1200,TWD,300,Houli Horse Ranch,Experience ticket,2025-01-taichung
+2025-02-01,Taichung,Transport,1200,TWD,300,CPC,Fuel cost,2025-01-taichung
+2025-02-02,Taichung,Shopping,2800,TWD,700,Miyahara,Last-day souvenir bulk purchase,2025-01-taichung
+2025-02-20,Fukuoka,Accommodation,9000,JPY,540,Hotel Nikko Fukuoka,First night check-in,2025-02-fukuoka
+2025-02-20,Fukuoka,Dining,1400,JPY,84,Hakata Issou Ramen,Dinner,2025-02-fukuoka
+2025-02-21,Fukuoka,Transport,8000,JPY,480,Times Car Rental,Car rental for 3 days,2025-02-fukuoka
+2025-02-22,Fukuoka,Attraction,5000,JPY,300,Yanagawa River Cruise,Boat ticket experience,2025-02-fukuoka
+2025-02-23,Fukuoka,Shopping,18000,JPY,1080,Fukuoka Mitsukoshi,Drugstore & souvenir bulk purchase last day,2025-02-fukuoka
+
