@@ -1,0 +1,7 @@
+NUMERIC SAFETY RULES
+
+No query → no number
+No aggregation → no calculation
+No records → no estimate
+
+Numbers must come from ES|QL aggregation only.
