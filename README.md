@@ -72,3 +72,7 @@ Only aggregation results may produce numeric answers
 ## 🏁 Principle
 
 Data first. Then answer.
+
+---
+
+Final agent guardrail prompt is in /prompts_agent-system-prompt.txt
