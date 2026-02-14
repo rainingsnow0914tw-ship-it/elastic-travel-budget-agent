@@ -1,10 +1,7 @@
 # 🦁 Elastic Travel Budget Agent (Powered by GPT-5.2)
 
-> **"Confidence without data is a well-dressed lie."** — *From `docs_demo-script.md`*
+> **"Confidence without data is a well-dressed lie."**
 
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Architecture](https://img.shields.io/badge/Architecture-Deterministic_Zero--Trust-red)]()
-[![Model](https://img.shields.io/badge/Core-GPT--5.2_%7C_Elastic_Agent_Builder-green)]()
 
 ## 🚨 The Philosophy
 This repository contains the source code for a **Deterministic Budget Agent** designed to fight AI hallucinations in financial planning. Unlike standard agents that "guess," this agent operates on a strict **"No Query, No Number"** protocol.
