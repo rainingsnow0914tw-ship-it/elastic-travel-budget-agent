@@ -1,9 +1,10 @@
 # 🦁 Elastic Travel Budget Agent (Powered by GPT-5.2)
 
-> **"Confidence without data is a well-dressed lie."**
+> **"Confidence without data is a well-dressed lie."** — *From `docs_demo-script.md`*
 
-[![Agent Builder](https://img.shields.io/badge/License-Elastic-blue.svg)](Agent Builder)
-[![](https://img.shields.io/badge/Core-GPT--5.2_%7C_Elastic_Agent_Builder-green)]()
+[![Ａｇｅｎｔ　Ｂｕｉｌｄｅｒ](https://img.shields.io/badge/License-Ｅｌａｓｔｉｃ-blue.svg)](Ａｇｅｎｔ　Ｂｕｉｌｄｅｒ)
+[![Architecture](https://img.shields.io/badge/Architecture-Deterministic_Zero--Trust-red)]()
+[![Model](https://img.shields.io/badge/Core-GPT--5.2_%7C_Elastic_Agent_Builder-green)]()
 ---
 
 1. Acoustic Intent Extraction (Voice-First Interface)
