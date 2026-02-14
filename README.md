@@ -2,8 +2,8 @@
 
 > **"Confidence without data is a well-dressed lie."** 
 
-🚀 Join the Movementhttps://www.elastic.co/
-https://elasticstack.slack.com/signup#/domain-signup
+[![Elastic](https://img.shields.io/badge/Elastic-Official_Website-005571?style=for-the-badge&logo=elastic&logoColor=white)](https://www.elastic.co/)
+[![Slack](https://img.shields.io/badge/Slack-Join_Community-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://elasticstack.slack.com/signup#/domain-signup)
 
 ---
 
