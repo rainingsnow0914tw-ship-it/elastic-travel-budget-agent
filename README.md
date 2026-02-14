@@ -2,9 +2,8 @@
 
 > **"Confidence without data is a well-dressed lie."**
 
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Architecture](https://img.shields.io/badge/Architecture-Deterministic_Zero--Trust-red)]()
-[![Model](https://img.shields.io/badge/Core-GPT--5.2_%7C_Elastic_Agent_Builder-green)]()
+[![Agent Builder](https://img.shields.io/badge/License-Elastic-blue.svg)](Agent Builder)
+[![](https://img.shields.io/badge/Core-GPT--5.2_%7C_Elastic_Agent_Builder-green)]()
 ---
 
 1. Acoustic Intent Extraction (Voice-First Interface)
