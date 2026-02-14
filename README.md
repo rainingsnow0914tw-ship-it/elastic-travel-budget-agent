@@ -3,32 +3,61 @@
 > **"Confidence without data is a well-dressed lie."**
 
 
-## 🚨 The Philosophy
-This repository contains the source code for a **Deterministic Budget Agent** designed to fight AI hallucinations in financial planning. Unlike standard agents that "guess," this agent operates on a strict **"No Query, No Number"** protocol.
+1. Acoustic Intent Extraction (Voice-First Interface)
+Recognizing that anxiety stems from complex interfaces, we implemented a seamless voice-driven command layer.
 
-## 📂 The "Truth" Architecture (File Structure)
+Input: Users verbally "dump" chaotic travel plans (e.g., "I want to go to Tokyo for 5 days, can I afford wagyu?").
 
-### 📜 `prompts_guardrail-rules.txt` (The Constitution)
-This is the core safety layer. It enforces the **Ironclad Laws** of the agent:
-- `Rule #3`: **No query → no number**
-- `Rule #4`: **No aggregation → no calculation**
-- `Rule #7`: **Numbers must come from ES|QL aggregation only**
+Process: The system captures the Acoustic Intent and transmutes it into structured ES|QL queries.
 
-### 🧠 `prompts_agent-system-prompt.txt` (The Identity)
-Defines the agent's persona not as a "chat assistant," but as a **"deterministic budget agent."** It forces the model to prioritize `platform.core.search` over its own internal knowledge base.
+Result: A friction-less, anxiety-free financial planning experience.
 
-### 📊 `mock-data.csv` (The Reality Test)
-Contains high-variance, real-world spending scenarios (Cross-currency: TWD/JPY, Specific Merchants: *Ichiran Ramen*, *Times Car Rental*) to stress-test the agent's contextual aggregation logic.
+2. The Logic Pipeline
+The agent follows a strict, unidirectional flow of truth: Query first → Aggregate → Calculate → Answer.
 
-### 🏗️ `docs_architecture.md` (The Blueprint)
-Documents the **Unidirectional Truth Flow**:
-`User` → `Acoustic Intent` → `ES|QL Query` → `Elasticsearch Aggregation` → `Deterministic Answer`
+Elastic Agent Builder: Orchestrates the reasoning.
 
-## 🚀 Getting Started
-(妳原本的安裝教學...)
+platform.core.search: The only authorized source of truth.
 
----
+ES|QL Aggregations: Performs the heavy lifting (SUM, COUNT_UNIQUE, AVG) in the database layer, not the LLM layer.
 
-## 🏁 Principle
+📜 The "Constitution" (Guardrail Rules)
+We implemented a Draconian Safety Layer directly into the system prompt (prompts_guardrail-rules.txt). This isn't just code; it's Law.
 
+Rule #1: No Query → No Number.
+
+Rule #2: No Record → No Estimate.
+
+Rule #3: Only aggregation results may produce numeric answers.
+
+If the query returns null, the agent is chemically lobotomized from guessing. It must admit ignorance.
+
+📊 Real-World Reality Testing
+We didn't train on clean academic data. We engineered mock-data.csv with high-variance real-world scenarios to prove the agent's robustness:
+
+Cross-Currency Normalization: Handling mixed portfolios (TWD vs. JPY).
+
+Contextual Merchant Recognition: Distinguishing between dining (Ichiran Ramen) and transport (Times Car Rental).
+
+Deterministic Calculation Formulas:
+
+🧠 Transparency & Traceability
+Trust is our primary currency. The Agent Builder tool panel provides full visibility into the Reasoning Trace:
+
+✅ Visible Tool Calls
+
+✅ Raw ES|QL Queries
+
+✅ Aggregation Steps
+
+✅ Calculation Inputs
+
+🚀 Future Roadmap: Democratizing Sovereignty
+Global Expansion: Scaling the Acoustic Intent Engine for multi-lingual support.
+
+The "Anxiety Shield": Anomaly detection for pre-emptive spending alerts.
+
+Accessibility First: Empowering users with motor impairments via our Voice-First architecture.
+
+🏁 Principle
 Data first. Then answer.
