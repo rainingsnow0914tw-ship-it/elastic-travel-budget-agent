@@ -5,7 +5,13 @@
 <div align="center">
   <h3>🚀 Join the Movement</h3>
   <a href="https://www.elastic.co/">
-    <img src="
+    <img src="https://img.shields.io/badge/Elastic-Official_Website-005571?style=for-the-badge&logo=elastic&logoColor=white" alt="Elastic Website">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://elasticstack.slack.com/signup#/domain-signup">
+    <img src="https://img.shields.io/badge/Slack-Join_Community-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack Community">
+  </a>
+</div>
 
 ---
 
