@@ -29,7 +29,7 @@ ES|QL Aggregations: Performs the heavy lifting (SUM, COUNT_UNIQUE, AVG) in the d
 
 📜 The "Constitution" (Guardrail Rules)
 
-We implemented a Draconian Safety Layer directly into the system prompt (prompts_guardrail-rules.txt). This isn't just code; it's Law.
+We implemented a Draconian Safety Layer directly into the system prompt ([prompts_guardrail-rules.txt](https://github.com/rainingsnow0914tw-ship-it/elastic-travel-budget-agent/blob/main/prompts_guardrail-rules.txt)). This isn't just code; it's Law.
 
 Rule #1: No Query → No Number.
 
