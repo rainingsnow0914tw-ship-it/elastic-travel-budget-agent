@@ -1,71 +1,34 @@
-# Elastic Travel Budget Agent
+# 🦁 Elastic Travel Budget Agent (Powered by GPT-5.2)
 
-Elastic Travel Budget Agent is a tool-driven AI agent built with **Elastic Agent Builder** and **Elasticsearch ES|QL queries** to produce deterministic, evidence-backed travel budget answers.
+> **"Confidence without data is a well-dressed lie."** — *From `docs_demo-script.md`*
 
-This project demonstrates a strict rule:
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Architecture](https://img.shields.io/badge/Architecture-Deterministic_Zero--Trust-red)]()
+[![Model](https://img.shields.io/badge/Core-GPT--5.2_%7C_Elastic_Agent_Builder-green)]()
 
-Query first → aggregate → calculate → then answer  
-No query result → no numeric answer.
+## 🚨 The Philosophy
+This repository contains the source code for a **Deterministic Budget Agent** designed to fight AI hallucinations in financial planning. Unlike standard agents that "guess," this agent operates on a strict **"No Query, No Number"** protocol.
 
-The agent is not allowed to guess numbers. All numeric outputs must come from Elasticsearch query results.
+## 📂 The "Truth" Architecture (File Structure)
 
----
+### 📜 `prompts_guardrail-rules.txt` (The Constitution)
+This is the core safety layer. It enforces the **Ironclad Laws** of the agent:
+- `Rule #3`: **No query → no number**
+- `Rule #4`: **No aggregation → no calculation**
+- `Rule #7`: **Numbers must come from ES|QL aggregation only**
 
-## 🎯 Problem
+### 🧠 `prompts_agent-system-prompt.txt` (The Identity)
+Defines the agent's persona not as a "chat assistant," but as a **"deterministic budget agent."** It forces the model to prioritize `platform.core.search` over its own internal knowledge base.
 
-Many AI systems provide confident financial answers without verifying real data.  
-In travel budgeting, this leads to incorrect estimates, failed payments, and real financial stress.
+### 📊 `mock-data.csv` (The Reality Test)
+Contains high-variance, real-world spending scenarios (Cross-currency: TWD/JPY, Specific Merchants: *Ichiran Ramen*, *Times Car Rental*) to stress-test the agent's contextual aggregation logic.
 
-Confidence without data is a well-dressed lie.
+### 🏗️ `docs_architecture.md` (The Blueprint)
+Documents the **Unidirectional Truth Flow**:
+`User` → `Acoustic Intent` → `ES|QL Query` → `Elasticsearch Aggregation` → `Deterministic Answer`
 
----
-
-## 💡 Solution
-
-Elastic Travel Budget Agent enforces tool-first reasoning:
-
-- Every numeric answer must come from ES|QL query results
-- Aggregations are computed in Elasticsearch
-- The LLM does not generate numbers
-- If no records exist → the agent returns “no data available”
-
----
-
-## ⚙️ Core Mechanism
-
-The agent uses:
-
-- Elastic Agent Builder
-- platform.core.search tool
-- ES|QL aggregation queries
-- Deterministic calculation formulas
-
-Example aggregation pipeline:
-
-sum(amount_hkd)  
-count_unique(date)  
-daily_average = total / unique_days  
-projected_budget = daily_average × planned_days
-
----
-
-## 🧠 Tool Transparency
-
-Agent Builder tool panel shows:
-
-- tool calls
-- ES|QL queries
-- aggregation steps
-- reasoning trace
-- calculation inputs
-
----
-
-## 🛡 Guardrail Rule
-
-No query → No number  
-No record → No estimate  
-Only aggregation results may produce numeric answers
+## 🚀 Getting Started
+(妳原本的安裝教學...)
 
 ---
 
