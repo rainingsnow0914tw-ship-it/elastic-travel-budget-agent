@@ -42,7 +42,7 @@ If the query returns null, the agent is chemically lobotomized from guessing. It
 ---
 
 📊 Real-World Reality Testing
-We didn't train on clean academic data. We engineered mock-data.csv with high-variance real-world scenarios to prove the agent's robustness:
+We didn't train on clean academic data. We engineered [mock-data.csv](https://github.com/rainingsnow0914tw-ship-it/elastic-travel-budget-agent/blob/main/mock-data.csv) with high-variance real-world scenarios to prove the agent's robustness:
 
 Cross-Currency Normalization: Handling mixed portfolios (TWD vs. JPY).
 
