@@ -13,6 +13,7 @@
   </a>
 </div>
 
+---
 
 1. Acoustic Intent Extraction (Voice-First Interface)
 
