@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/Slack-Join_Community-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack Community">
   </a>
 </div>
----
+
 
 1. Acoustic Intent Extraction (Voice-First Interface)
 
