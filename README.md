@@ -18,6 +18,10 @@
 
 ---
 
+> **Demo Video:** https://youtu.be/qLOlcMndZ30?si=RacOKLiD6-PXE2Ab
+
+---
+
 1. Acoustic Intent Extraction (Voice-First Interface)
 
 Recognizing that anxiety stems from complex interfaces, we implemented a seamless voice-driven command layer.
